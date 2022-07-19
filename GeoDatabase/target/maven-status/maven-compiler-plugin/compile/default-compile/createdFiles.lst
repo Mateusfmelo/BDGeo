@@ -1,0 +1,16 @@
+model\EstadoService.class
+model\CidadegemeaService.class
+model\RodoviaService.class
+View\Application.class
+model\FerroviaService.class
+model\Hidrovia.class
+model\Ferrovia.class
+model\Aeroporto.class
+model\MunicipioService.class
+model\Rodovia.class
+model\HidroviaService.class
+util\JPAUtil.class
+model\AeroportoService.class
+model\Cidadegemea.class
+model\Estado.class
+model\Municipio.class
